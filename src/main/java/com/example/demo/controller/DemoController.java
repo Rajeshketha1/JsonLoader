@@ -25,6 +25,7 @@ public class DemoController {
     // File file = new File(getClass().getResource("customer.json").getFile());
 
     return jsonStr;
+
   }
 
   @GetMapping(value = "/address")

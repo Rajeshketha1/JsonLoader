@@ -1,0 +1,2 @@
+{"@timestamp":"2019-09-03T17:18:18.716Z","severity":"ERROR","service":"springAppName_IS_UNDEFINED","trace":"","span":"","parent":"","exportable":"","pid":"21544","thread":"main","class":"o.springframework.boot.SpringApplication","rest":"Application run failed"}
+{"@timestamp":"2019-09-03T17:18:18.758Z","severity":"ERROR","service":"springAppName_IS_UNDEFINED","trace":"","span":"","parent":"","exportable":"","pid":"21544","thread":"main","class":"o.springframework.boot.SpringApplication","rest":"Application run failed"}

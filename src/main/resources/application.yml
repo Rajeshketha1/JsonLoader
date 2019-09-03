@@ -6,7 +6,7 @@ server:
 
 logging:
   level:
-    root: DEBUG
+    root: INFO
 endpoint:
     url: http://localhost:8083
 
